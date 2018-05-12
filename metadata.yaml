@@ -1,0 +1,29 @@
+_repo: L-Imperatore-Giuliano-l-Apostata_37986
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37986-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Negri, Gaetano
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '39177'
+    url: http://www.gutenberg.org/2009/agents/39177
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2011-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37986'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcsh 'Rome -- History -- Julian, 361-363'
+- !lcsh 'Julian, Emperor of Rome, 331-363'
+- !lcc 'DG'
+title: 'L''Imperatore Giuliano l''Apostata: studio storico'
+url: http://www.gutenberg.org/ebooks/37986
