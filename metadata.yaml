@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39177'
     url: http://www.gutenberg.org/2009/agents/39177
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37986#L-Imperatore-Giuliano-l-Apostata
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2011-11-11'
 gutenberg_type: Text
